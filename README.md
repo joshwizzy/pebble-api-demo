@@ -1,6 +1,6 @@
 # Exploring the Pebble HTTP API
 
-This tutorial explores the Pebble API by following these steps:
+This tutorial explores the [Pebble](https://github.com/canonical/pebble) API by following these steps:
 
 * Inspect the source code to figure out the expected payload for the various endpoints
 * Write a simple service which we use to test the API.
